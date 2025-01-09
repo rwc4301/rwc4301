@@ -13,7 +13,7 @@
 
 ### Web
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,26 +26,26 @@
 ### Games & 3D
 
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
-![Unreal Engine](https://img.shields.io/badge/-unrealengine-black?style=flat-square&logo=unrealengine)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=threedotjs)
 
 ### Web3
 
-![Ethereum](https://img.shields.io/badge/-ethereum-black?style=flat-square&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/-web3dotjs-black?style=flat-square&logo=web3dotjs)
-![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
+![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=web3dotjs)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 
 ### AI
 
-![HuggingFace](https://img.shields.io/badge/-huggingface-black?style=flat-square&logo=huggingface)
-![Jupyter](https://img.shields.io/badge/-jupyter-black?style=flat-square&logo=jupyter)
-![Keras](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
-![LangChain](https://img.shields.io/badge/-langchain-black?style=flat-square&logo=langchain)
-![OpenCV](https://img.shields.io/badge/-opencv-black?style=flat-square&logo=opencv)
-![Scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikitlearn)
-![Scipy](https://img.shields.io/badge/-scipy-black?style=flat-square&logo=scipy)
-![TensorFlow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)
+![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 
 ### Data
 
@@ -53,7 +53,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Neo4j](https://img.shields.io/badge/-neo4j-black?style=flat-square&logo=neo4j)
+![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 
 ### DevOps
 
