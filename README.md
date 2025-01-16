@@ -71,7 +71,11 @@
 
 ### Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwc4301)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwc4301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rwc4301&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwc4301&layout=compact&theme=transparent&card_width=320" />
+</a>
 
 ### Projects
