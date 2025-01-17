@@ -72,10 +72,10 @@
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rwc4301&theme=transparent" />
+  <img height=200 align="center" src="https://githubstats.reubenduncan.com/api?username=rwc4301&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwc4301&layout=compact&theme=transparent" />
+  <img height=200 align="center" src="https://githubstats.reubenduncan.com/api/top-langs/?username=rwc4301&layout=compact&theme=transparent" />
 </a>
 
 ### Projects
