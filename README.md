@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Technologies
+## Experience
 
 ### Languages
 
