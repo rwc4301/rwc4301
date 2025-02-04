@@ -63,6 +63,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 
 ### Robotics & IoT
 
